@@ -2,7 +2,7 @@ This project automatically detects and masks key facial features (Eye, Nose, Ear
 The demo images below show the process in the order of **Original → Detection (Bounding Box & Label) → Defaced**.
 
 <p align="center">
-  <img src="./images/demo_combined.png" alt="Image" width="100%" />
+  <img src="./output/demo_combined.png" alt="Image" width="100%" />
 </p>
 
 > **From left to right:**  
